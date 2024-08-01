@@ -1,1 +1,3 @@
-# Create-a-Table
+# SQL Repository
+
+Welcome to my repository, a comprehensive collection of all my SQL projects designed to showcase my proficiency and expertise in SQL. Within this repository, you will find a diverse range of projects that demonstrate my ability to write complex queries, optimize database performance, and effectively manage data. Each project highlights different aspects of SQL, from basic data manipulation to advanced analytical functions, providing a thorough insight into my skills and experience. Explore the projects to see real-world applications of SQL and understand the depth of my knowledge in this essential technology.
