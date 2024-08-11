@@ -1,13 +1,15 @@
-/*  Dataset: New York Restaurants
+/*  
+    Dataset: New York Restaurants
     Source: SQL Codecademy Course, Learn SQL Skill Path
     Queried using: SQLite 3
 
+    About the Dataset:
     The New York Restaurants data set is a database that contains a table with columns 
     name, neighborhood, restaurant, cuisine, review, price, and health.
     The table can be found here: https://docs.google.com/spreadsheets/d/1GKwkHDSLxe2d6TCDfoO_OTtsSNCUt50WI8c3QJ2AGas/edit?gid=0#gid=0
     
-    This project demonstrates my ability to query data using 
-    DISTINCT, ORDER BY, and CASE clauses, applied to the 'nomnom' table.
+    Project Description:
+    This project demonstrates my ability to query data using DISTINCT, ORDER BY, and CASE clauses, applied to the 'nomnom' table.
 */
 
 -- Query complete table
