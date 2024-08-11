@@ -2,6 +2,7 @@
     Source: N/A
     Queried using: SQLite 3
 
+    Project Description:
     This project demonstrates my ability to create a table (friends) and modify it.
 */
 
