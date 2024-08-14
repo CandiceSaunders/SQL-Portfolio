@@ -6,7 +6,6 @@
     About the Dataset:
     The RPA Fraud Detection dataset is a database that contains a table, transaction_data, 
     with columns: id, full_name, email, zip, ip_address.
-    The table can be found here: https://docs.google.com/spreadsheets/d/1edrtEqTrZWojCL7diff-sBYj5K-gcf6sEqMF82T75BY/edit?usp=sharing
     
     Project Description:
     Reputable Product Agency (RPA) has started receiving complaints from their 
