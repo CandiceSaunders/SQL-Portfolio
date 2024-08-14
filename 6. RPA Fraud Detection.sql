@@ -1,6 +1,6 @@
 /*  
     Dataset: RPA Fraud Detection
-    Source: SQL Codecademy Course, Learn SQL Skill Path
+    Source: SQL Codecademy Course, Analyze Data with SQL Skill Path
     Queried using: SQLite 3
 
     About the Dataset:
