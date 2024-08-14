@@ -1,15 +1,14 @@
  /* 
-    Dataset: Lyft Trip
+    Dataset: Lyft Trip Data
     Source: SQL Codecademy Course, Learn SQL Skill Path
     Queried using: SQLite 3
 
     About the Dataset:
-    The Lyft Trip dataset is a database that contains multiple tables with tables:
+    The Lyft Trip Data dataset is a database that contains multiple tables with tables:
         - trips: trips information
         - riders: user data
         - cars: autonomous cars
         - riders2: new riders user data
-    The database can be found here: https://docs.google.com/spreadsheets/d/1daO1Lxjk4Ym6-waiQWOoadnmhegI1S8vroNxWIJRt3Q/edit?usp=sharing
     
     Project Description:
     This project demonstrates my ability to query data on multiple tables within a database
