@@ -4,8 +4,8 @@
     Queried using: SQLite 3
 
     About the Dataset:
-    The Hacker News Trend dataset is a database that contains a table with columns title, user, score, timestamp, and url.
-    The table can be found here: https://docs.google.com/spreadsheets/d/16Yyd9jMbxIpm_NwaT7NJ3lJdIY51gBoqBqdX7DZJMNY/edit?usp=sharing
+    The Hacker News Trend dataset is a database that contains a table, hacker_news,
+    with columns: title, user, score, timestamp, and url.
     
     Project Description:
     Hacker News is a popular website run by Y Combinator. It’s known as a
