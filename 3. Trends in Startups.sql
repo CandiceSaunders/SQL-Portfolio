@@ -4,9 +4,8 @@
     Queried using: SQLite 3
 
     About the Dataset:
-    The Trends in Startups dataset is a database that contains a table with columns 
-    name, location, category, employees, raised, valuation, founded, stage, ceo, and info.
-    The table can be found here: https://docs.google.com/spreadsheets/d/1HMlkeeHf_qnWtAPGVqsLIOOyMKh7lFO8djkLZnAUFps/edit?usp=sharing
+    The Trends in Startups dataset is a database that contains a table startup,
+    with columns: name, location, category, employees, raised, valuation, founded, stage, ceo, and info.
     
     Project Description:
     This project demonstrates my ability to query data using aggregate functions applied to the 'startups' table.
