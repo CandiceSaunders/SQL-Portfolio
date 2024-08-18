@@ -4,11 +4,11 @@
     Queried using: SQLite 3
 
     About the Dataset:
-    The Lyft Trip Data dataset is a database that contains multiple tables with tables:
-        - trips: trips information
-        - riders: user data
-        - cars: autonomous cars
-        - riders2: new riders user data
+    The Lyft Trip Data dataset is a database that contains multiple tables with tables (and columns):
+        - trips: id, date, pickup, droppoff, rider_id, car_id, type, cost
+        - riders: id, first, last, username, rating, total_trips, referred
+        - cars: id, model, OS, status, trips_completed
+        - riders2: id, first, last, username, rating, total_trips, referred
     
     Project Description:
     This project demonstrates my ability to query data on multiple tables within a database
