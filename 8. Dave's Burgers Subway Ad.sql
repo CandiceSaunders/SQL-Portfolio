@@ -4,7 +4,7 @@
     Queried using: SQLite 3
 
     About the Dataset:
-    The Dave's Burgers Subway Ad dataset is a database that contains a table, users, 
+    The Dave's Burgers Subway Ad dataset is a database that contains a table, orders, 
     with columns: id, user_id, order_date, restaurant_id, item_name, and special_instructions.
     
     Project Description:
