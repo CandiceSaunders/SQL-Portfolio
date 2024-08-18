@@ -10,7 +10,7 @@
     Project Description:
     The Metropolitan Museum of Art of New York is one of the world’s largest and 
     finest art museums. In this project, I worked with a table named met that contains data 
-    about the museum’s collection of American Decorative Arts. I used SQL queries to determine
+    about the museum’s collection of American Decorative Arts. I used SQL queries to
     analyze data provided.
 */
 
