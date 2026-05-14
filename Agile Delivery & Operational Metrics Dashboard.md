@@ -33,5 +33,17 @@ Agile and operational teams often manage large volumes of work items across mult
 <h2>Data Workflow / Architecture</h2>
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/99dd7e28-cd76-4780-aa2f-16cde0d8b987" />
 
+<h2>Data Validation & Transformation</h2>
 
-
+- [SQL Validation Script](https://github.com/CandiceSaunders/SQL-Repository/blob/main/Agile%20Delivery%20%26%20Operational%20Metrics%20SQL%20Analysis.sql)
+  
+| Validation Check | Outcome |
+| ----- | ----- |
+| Row Count Validation | Verified that 500 rows were successfully loaded into the final table. |
+| Required Field Validation | Verified that key fields such as work_item_id, status, team, priority, and created_date were populated. |
+| Duplicate Work Item Validation | Confirmed that each work_item_id was unique. |
+| Null Value Validation | Verified that open work items contained expected null closed_date values. |
+| Closed Item Validation | Verified that all closed work items contained appropriate closed_date values. |
+| Date Logic Validation | Verified that closed_date values did not occur before created_date values. |
+| Cycle Time Datatype Validation | Validated and transformed cycle_time_days values into the appropriate datatype for reporting and analysis. |
+| SLA Logic Validation | Verified SLA classifications by identifying work items that exceeded the 10-day SLA threshold. |
