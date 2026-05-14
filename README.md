@@ -1,3 +1,5 @@
-# SQL Portfolio
+# SQL Data Analysis Projects
 
-Welcome to my repository, a comprehensive collection of all my SQL projects designed to showcase my proficiency and expertise in SQL. Within this repository, you will find a diverse range of projects that demonstrate my ability to write complex queries, optimize database performance, and effectively manage data. Each project highlights different aspects of SQL, from basic data manipulation to advanced analytical functions, providing a thorough insight into my skills and experience. Explore the projects to see real-world applications of SQL and understand the depth of my knowledge in this essential technology.
+This repository contains a collection of SQL-based data analysis, reporting, and operational analytics projects focused on Agile delivery, business operations, KPI reporting, and process analysis. These projects were created to strengthen SQL querying, data transformation, validation, and reporting skills while simulating real-world business and operational reporting scenarios.
+
+The portfolio demonstrates experience with data ingestion workflows, staging tables, data validation, SQL views, aggregations, KPI analysis, operational reporting, and business-focused analytics using SQL Server. Projects within this repository are designed to support reporting and visualization workflows across tools such as Power BI, Tableau, and Microsoft Excel.
