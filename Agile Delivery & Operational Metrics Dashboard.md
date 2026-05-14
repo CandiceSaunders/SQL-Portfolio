@@ -31,11 +31,14 @@ Agile and operational teams often manage large volumes of work items across mult
 - Dashboard Development
 
 <h2>Data Workflow / Architecture</h2>
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/99dd7e28-cd76-4780-aa2f-16cde0d8b987" />
+<img width="1536" height="865" alt="image" src="https://github.com/user-attachments/assets/5e6f935b-41ed-48d5-91c2-eb8322cdf494" />
 
 <h2>Data Validation & Transformation</h2>
 
-- [SQL Validation Script](https://github.com/CandiceSaunders/SQL-Repository/blob/main/Agile%20Delivery%20%26%20Operational%20Metrics%20SQL%20Analysis.sql)
+<p>
+Validation and transformation checks were performed to improve data quality, validate reporting logic, and ensure the dataset was prepared for downstream reporting and dashboard development. The full SQL validation and transformation workflow can be viewed in the 
+<a href="YOUR_LINK_HERE">SQL Validation Script</a>.
+</p></br>
   
 | Validation Check | Outcome |
 | ----- | ----- |
