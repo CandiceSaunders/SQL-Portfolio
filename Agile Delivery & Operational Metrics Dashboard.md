@@ -37,7 +37,7 @@ Agile and operational teams often manage large volumes of work items across mult
 
 <p>
 Validation and transformation checks were performed to improve data quality, validate reporting logic, and ensure the dataset was prepared for downstream reporting and dashboard development. The full SQL validation and transformation workflow can be viewed in the 
-<a href="YOUR_LINK_HERE">SQL Validation Script</a>.
+<a href="YOUR_LINK_HERE">SQL Validation Script</a>. A few of the validation checks performed have been called out below.
 </p></br>
   
 | Validation Check | Outcome |
