@@ -76,7 +76,7 @@ Building the reporting view in SQL helped simplify the Power BI layer by handlin
 
 <h2>Deliverables / Files</h2>
 
-- [Agile Delivery Dashboard (.pbix)]()
-- [Raw Data (CSV File)]()
-- [SQL Validation Check Script](https://github.com/CandiceSaunders/SQL-Repository/blob/main/Agile%20Delivery%20%26%20Operational%20Metrics%20SQL%20Analysis.sql)
+- [Agile Delivery and Operational Metrics Dashboard (.pbix)](https://1drv.ms/u/c/baf19c3fa779f554/IQBxJ48TDHNrR7f5ZL99gv9mAdWcGfeoBvq9k1RkHv7ryYI?e=eNAg95)
+- [Agile Delivery Raw Dataset (CSV File)](https://1drv.ms/x/c/baf19c3fa779f554/IQD1KFXGSuwpQYpMPstTP1LPAedx6B5qbz7tETN_5Q3NGwQ?e=9c9rbI)
+- [SQL Validation Script](https://github.com/CandiceSaunders/SQL-Repository/blob/main/Agile%20Delivery%20%26%20Operational%20Metrics%20SQL%20Analysis.sql)
 
