@@ -50,3 +50,26 @@ Validation and transformation checks were performed to improve data quality, val
 | Date Logic Validation | Verified that closed_date values did not occur before created_date values. |
 | Cycle Time Datatype Validation | Validated and transformed cycle_time_days values into the appropriate datatype for reporting and analysis. |
 | SLA Logic Validation | Verified SLA classifications by identifying work items that exceeded the 10-day SLA threshold. |
+
+<h2>SQL Reporting View / Architecture</h2>
+
+To prepare the data for reporting, I created a SQL reporting view that serves as the final reporting layer for the Power BI dashboard. Instead of connecting Power BI directly to the raw work item table, the view was used to centralize reporting logic and prepare the dataset for analysis ahead of time.
+
+The view includes the original work item data along with additional reporting fields used throughout the dashboard, including:
+
+- backlog_status to identify open backlog vs. closed work items
+- sla_status to classify whether work items were within SLA, breached SLA, or still open
+- cycle_time_bucket to group work items into reporting categories based on cycle time
+- sprint_sort to support proper sprint ordering within Power BI visuals
+
+Building the reporting view in SQL helped simplify the Power BI layer by handling business logic, reporting classifications, and transformation steps before the data was loaded into the dashboard.
+
+<h2>Dashboard Preview</h2>
+<img width="1780" height="930" alt="image" src="https://github.com/user-attachments/assets/f9f4265b-b073-402e-a2d9-9313244dfbef" />
+
+<h2>Key Insights</h2>
+
+- Claims and Reporting teams handled the highest workload volume.
+- SLA breaches represented a significant portion of open work items.
+- Lower-priority work items showed slightly lower average cycle times.
+- Sprint throughput fluctuated across reporting periods, indicating varying delivery capacity.
