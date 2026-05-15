@@ -18,7 +18,6 @@ Agile and operational teams often manage large volumes of work items across mult
 - Power BI
 - Microsoft Excel
 - DAX
-- Power Query
 
 <h2>Concepts & Skills Demonstrated</h2>
 
