@@ -37,7 +37,7 @@ Agile and operational teams often manage large volumes of work items across mult
 
 <p>
 Validation and transformation checks were performed to improve data quality, validate reporting logic, and ensure the dataset was prepared for downstream reporting and dashboard development. The full SQL validation and transformation workflow can be viewed in the 
-<a href="YOUR_LINK_HERE">SQL Validation Script</a>. A few of the validation checks performed have been called out below.
+<a href="https://github.com/CandiceSaunders/SQL-Repository/blob/main/Agile%20Delivery%20%26%20Operational%20Metrics%20SQL%20Analysis.sql">SQL Validation Script</a>. A few of the validation checks performed have been called out below.
 </p></br>
   
 | Validation Check | Outcome |
@@ -73,3 +73,10 @@ Building the reporting view in SQL helped simplify the Power BI layer by handlin
 - SLA breaches represented a significant portion of open work items.
 - Lower-priority work items showed slightly lower average cycle times.
 - Sprint throughput fluctuated across reporting periods, indicating varying delivery capacity.
+
+<h2>Deliverables / Files</h2>
+
+- [Agile Delivery Dashboard (.pbix)]()
+- [Raw Data (CSV File)]()
+- [SQL Validation Check Script](https://github.com/CandiceSaunders/SQL-Repository/blob/main/Agile%20Delivery%20%26%20Operational%20Metrics%20SQL%20Analysis.sql)
+
